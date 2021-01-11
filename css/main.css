@@ -1,0 +1,200 @@
+#header{
+    background: rgba(0,0,0,0.2) !important;
+}
+.member-boards-view.super-home,
+.sticky-spacer,
+body{
+    background: #141d26 !important;
+}
+.boards-page-board-section-header-name,.board-tile-details-name{
+    color:#b7b1b1 !important;
+}
+.compact-board-tile-link-thumbnail,.board-tile{
+    background:rgb(36, 52, 71) !important;
+}
+
+/*Home Page*/
+
+
+/*Images*/
+.board img{
+    opacity: 0.3 !important;
+}
+.card-detail img{
+    opacity: 0.3 !important;
+}
+.dream-teams img{
+    opacity: 0.3 !important;
+}
+.layout-two-up-content-image{
+    opacity: 0.3 !important;
+}
+/*End Images*/
+.background-sky{
+    background: #141d26 !important;
+}
+.background-light-purple {
+    background: #141d26 !important;
+}
+.global-header.mod-trello-blue {
+    background-color: #141d26 !important;
+}
+
+.global-header-section-button.mod-primary {
+    background: linear-gradient(to bottom, #000000 0, #000000 100%) !important;
+}
+.section-home-login {
+    background: #243447 !important;
+}
+.header-section.layout-centered {
+    background: url(https://d2k1ftgv7pobq7.cloudfront.net/meta/p/res/images/d84b3c6…/usecases-bg.jpg) center left / cover no-repeat #141d26 !important;
+}
+.background-dark-bc{
+    background-color: #141d26 !important;
+}
+.background-orange-sun {
+    background: #000000;
+    background: linear-gradient(0deg, #2f2f2f, #000000)!important;
+}
+.background-business-blue {
+    background: #000000;
+    background: linear-gradient(0deg, #2f2f2f, #000000)!important;
+}
+.background-red {
+    background: #243447 !important;
+}
+
+/*login*/
+.section-home-login{
+    color: #b7b2b2!important;
+}
+.global-header.mod-dark-background a.global-header-section-button:visited
+{
+    color: #b7b2b2!important;
+}
+.global-header.mod-dark-background a.global-header-section-button{
+    color: #b7b2b2!important;
+}
+.layout-centered.mod-white-text{
+    color: #b7b2b2!important;
+}
+.layout-two-up.mod-white-text{
+    color: #b7b2b2!important;
+}
+a.button.mod-primary, input[type="submit"].mod-primary, button.mod-primary{
+    color: #efeaea!important;
+}
+.list {
+    background: #2b3e54 !important
+}
+.list-card {
+    /* color: #f6f6f6; */
+    background-color: #243447 !important;
+}
+/* List cart Title */
+.list-card-title {
+    color: rgb(214, 218, 220) !important;
+}
+
+/* search box style*/
+.search-results-section-header h4{
+    color: #b7b1b1 !important;
+}
+/* search box style end*/
+
+
+/*Add another list style*/
+
+.list-shadow.distinct-add-list.mod-add.is-idle form {
+    background-color: #212e3e !important;
+}
+
+/*Add another list style end*/
+
+/* Add another cart Btn style*/
+.distinct-list .open-card-composer{
+    background: #212e3e !important;
+}
+
+.distinct-list .open-card-composer{
+    color:#9c9c9c !important
+}
+
+/* Add another cart Btn style End*/
+
+.js-list-name-assist{
+    color:#000000!important;
+}
+.list-header textarea{
+    color:#d6dadc !important;
+}
+textarea.list-card-composer-textarea,textarea.list-card-composer-textarea:focus{
+color:#fff !important;
+}
+
+/* Dashboard*/
+
+.body-tabbed-page{
+    background: #141d26 !important;
+}
+#classic-body{
+    background: #141d26 !important;
+}
+.body-board-view{
+    background: #141d26 !important;
+}
+
+.board-main-content a{
+    color:#fff !important
+}
+input[type=submit]{
+    background: #525252 !important;
+}
+
+/* Dashboad Pop Model*/
+.pop-over{
+    background: #2b3e54 !important;
+    border:none  !important;
+}
+.pop-over-list li>a{
+    color: #5c6a76 !important;
+}
+
+/* Dash board Board Title Bg*/
+
+.distinct-list .list-header{
+    background: #2b3e54 !important;
+}
+.distinct-list .open-card-composer:hover {
+    background: #65717e;
+}
+
+/* New Stuff */
+.announcement p{
+    color:#b7b1b1 !important;
+}
+.announcement-header a{
+    color:#b7b1b1 !important;
+}
+
+/*Boards Popup*/
+.pop-over-content input,
+.pop-over textarea {
+    background-color: #243447 !important;
+    color: #ddd !important;
+}
+.pop-over-content label{
+    color:#ddd !important;
+}
+/*Notification*/
+.window-overlay.mod-notifications-overlay,
+.notifications-onboarding .notifications-onboarding-dialog{
+    background: #141d26 !important;
+}
+
+/* Profile */
+.tabbed-pane-header,
+.tabbed-pane-main-col{
+    background: #152a42 !important;
+    color: #909090 !important;
+}
